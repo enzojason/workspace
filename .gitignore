@@ -1,0 +1,13 @@
+/.metadata/
+/bin/
+.metadata/
+.settings/
+.classpath
+.project
+/target/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.gradle/
