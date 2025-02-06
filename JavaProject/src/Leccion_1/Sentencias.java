@@ -44,5 +44,21 @@ public class Sentencias {
             break;
 		}
 		System.out.println("\n");
+		System.out.println("SENTENCIAS DE REPETICION");
+        while (numero <= 10) {
+            System.out.println(numero);
+            numero += 2;
+        }
+        
+        System.out.println("DO-WHILE");
+		System.out.println("\n");
+
+		System.out.println("menu ejemplo do while");
+		int a =0;
+		do {
+			System.out.println("CONtar");
+			a=a+1;
+		} while (a<5);
 	}
+	
 }
